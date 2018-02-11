@@ -1,3 +1,4 @@
 # hello-world
 first projekt
-# This file is written for the initial orientation to GitHub
+# This file is written for my initial orientation to GitHub
+"Hello World!"
